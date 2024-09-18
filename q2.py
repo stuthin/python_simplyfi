@@ -27,3 +27,4 @@ results = min_players_to_shoot(test_cases)
 # Print the results
 for result in results:
     print(result)
+
